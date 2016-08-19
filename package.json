@@ -1,0 +1,33 @@
+{
+  "name": "flatten-nested-array",
+  "version": "1.0.0",
+  "description": "A simple JS utility for flattening arrays includes Typescript Typings.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admmasters/flatten-nested-array.git"
+  },
+  "keywords": [
+    "Flatten",
+    "Nested",
+    "Array",
+    "Simple",
+    "Typescript",
+    "Typings"
+  ],
+  "author": "Matt Revell <mattrevell82@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/admmasters/flatten-nested-array/issues"
+  },
+  "homepage": "https://github.com/admmasters/flatten-nested-array#readme",
+  "devDependencies": {
+    "eslint": "3.3.1",
+    "eslint-config-airbnb": "10.0.1",
+    "eslint-plugin-react": "6.1.2",
+    "typescript": "1.8.10"
+  }
+}
