@@ -1,4 +1,7 @@
 # flatten-nested-array
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/admmasters/flatten-nested-array.svg)](https://greenkeeper.io/)
+
 A simple JS utility for flattening arrays includes Typescript Typings.
 
 **Why?**
